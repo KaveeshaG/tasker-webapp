@@ -1,0 +1,74 @@
+[
+    {
+        "name": "To-Do",
+        "items": [
+            {
+                "id": 1,
+                "priority": 0,
+                "title": "Company website redesign.",
+                "description": "Test descrip tion"
+            },
+            {
+                "id": 2,
+                "priority": 2,
+                "title": "Mobile app login process prototype.",
+                "description": "Test description 5"
+            }
+        ]
+    },
+    {
+        "name": "In Progress",
+        "items": [
+            {
+                "id": 3,
+                "priority": 1,
+                "title": "Research and strategy for upcoming project.",
+                "description": "Test description 4"
+            }
+        ]
+    },
+    {
+        "name": "In-Review",
+        "items": [
+            {
+                "id": 4,
+                "priority": 2,
+                "title": "Dashboard layout redesign.",
+                "description": "Test description"
+            },
+            {
+                "id": 5,
+                "priority": 0,
+                "title": "Social media posts",
+                "description": "Test description 2"
+            }
+        ]
+    },
+    {
+        "name": "Done",
+        "items": [
+            {
+                "id": 6,
+                "priority": 0,
+                "title": "Review client spec document and give feedback.",
+                "chat": 13,
+                "attachment": 2,
+                "description": "Test description"
+            },
+            {
+                "id": 7,
+                "priority": 1,
+                "title": "Navigation designs",
+                "chat": 0,
+                "attachment": 0,
+                "description": "Test description 2"
+            },
+            {
+                "id": 8,
+                "priority": 2,
+                "title": "Create style guide based on previous feedback",
+                "description": "Test description 3"
+            }
+        ]
+    }
+]
